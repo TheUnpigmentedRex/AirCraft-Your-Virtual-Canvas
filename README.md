@@ -59,4 +59,52 @@ python main.py
 
 ---
 
+## Demo Pictures
+## Picture 1: Hand Tracking
+![Pic 1](https://github.com/TheUnpigmentedRex/Air-Craft-Your-Virtual-Canvas/blob/main/Landmarks_on_the_palm.png)
+This shows the live hand tracking with landmarks drawn on the webcam feed.
+
+---
+
+## Picture 2: Paint Mode
+![Pic 2](https://github.com/TheUnpigmentedRex/Air-Craft-Your-Virtual-Canvas/blob/main/Paint_Demo.png)
+Drawing on the canvas using finger gesture: BrInging the Index and Middle Fingers close to one another.
+
+---
+
+## Picture 3: Different Brush Strokes
+![Pic 3](https://github.com/TheUnpigmentedRex/Air-Craft-Your-Virtual-Canvas/blob/main/Different_Brushes.png)
+A variety of Brush Strokes are available as shown above.
+
+---
+
+## Picture 4: Different Colour Options
+![Pic 4](https://github.com/TheUnpigmentedRex/Air-Craft-Your-Virtual-Canvas/blob/main/Different_Colours.png)
+A variety of Colour Options are available as shown above.
+
+---
+
+## Picture 5: Different Shapes 
+![Pic 5](https://github.com/TheUnpigmentedRex/Air-Craft-Your-Virtual-Canvas/blob/main/Different_Shapes.png)
+A variety of Shapes are available as shown above.
+
+---
+
+## Picture 6: Erase Mode
+![Pic 6](https://github.com/TheUnpigmentedRex/Air-Craft-Your-Virtual-Canvas/blob/main/Eraser_Demo.png)
+Erasing parts of the drawing using gesture-based eraser.
+
+---
+
+## Picture 7: Stop Mode
+![Pic 7](https://github.com/TheUnpigmentedRex/Air-Craft-Your-Virtual-Canvas/blob/main/Stop_Demo.png)
+No Painting, when Stop is enabled, even if the drawing gesture is made.
+
+---
+
+## Picture 8: Writing Demo 
+![Pic 8](https://github.com/TheUnpigmentedRex/Air-Craft-Your-Virtual-Canvas/blob/main/Writing_Demo.png)
+The above shows a random written piece using the Air Craft.
+
+---
 
