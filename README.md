@@ -1,4 +1,4 @@
-# Air-Craft-Your-Virtual-Canvas
+# AirCraft: Your Virtual Canvas
 Draw in the air using just your hand gestures.
 This project uses OpenCV and MediaPipe to track hand movements via webcam and convert them into a real-time virtual drawing experience.
 
